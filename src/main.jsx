@@ -8,9 +8,9 @@ import { PokemonProvider } from "./context/PokemonContext.jsx";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <BrowserRouter>
-    <PokemonProvider>
+      <PokemonProvider>
         <App />
-    </PokemonProvider>
+      </PokemonProvider>
     </BrowserRouter>
   </React.StrictMode>
 );
