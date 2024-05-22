@@ -1,13 +1,3 @@
-# React + Vite
+# Pokemon Web
 
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+### App using an API, react & vite
