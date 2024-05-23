@@ -9,7 +9,7 @@ const Navbar = () => {
         <a href="/">
           <img
             className=" align-text-top pokeBall"
-            src="src/images/png-transparent-poke-ball-removebg-preview.png"
+            src="public/images/png-transparent-poke-ball-removebg-preview.png"
           />
         </a>
         <div className="section">
